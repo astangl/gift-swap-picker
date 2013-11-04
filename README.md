@@ -11,14 +11,14 @@ To use:
 
 With sample data it shows output:
 
-Kitty -> Lydia
-Lydia -> Jane
-Jane -> Darcy
-Darcy -> Mary
-Mary -> Bingley
-Bingley -> Elizabeth
-Elizabeth -> Wickham
-Wickham -> Kitty
+    Kitty -> Lydia
+    Lydia -> Jane
+    Jane -> Darcy
+    Darcy -> Mary
+    Mary -> Bingley
+    Bingley -> Elizabeth
+    Elizabeth -> Wickham
+    Wickham -> Kitty
 
 meaning Kitty gets Lydia a gift, Lydia gets Jane a gift, ... , and
 Wickham gets Kitty a gift.
